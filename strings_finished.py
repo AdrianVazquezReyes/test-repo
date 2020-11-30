@@ -1,6 +1,8 @@
 # strings and bytes are not directly interchangeable
 # strings contain unicode, bytes are raw 8-bit values
 
+# please attend this requirement 
+
 def main():
     # define some starting values
     b = bytes([0x41, 0x42, 0x43, 0x44])
