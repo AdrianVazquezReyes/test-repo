@@ -1,6 +1,10 @@
 # strings and bytes are not directly interchangeable
 # strings contain unicode, bytes are raw 8-bit values
 
+
+#some changes from another branch called signin 
+
+
 def main():
     # define some starting values
     print('*'*100)
