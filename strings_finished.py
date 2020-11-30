@@ -2,6 +2,7 @@
 # strings contain unicode, bytes are raw 8-bit values
 
 # please attend this requirement 
+# ok this is not a problem
 
 def main():
     # define some starting values
