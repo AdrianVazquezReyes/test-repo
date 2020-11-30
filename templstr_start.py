@@ -23,5 +23,5 @@ def tmplete1(**d):
     text3 = text.substitute(d)
     print('chido', text3)
 
-data = {'nombre' : 'adrian', 'apellido' : 'vazquez'}
+data = {'nombre' : 'claudia', 'apellido' : 'reynoso'}
 tmplete1(**data)
