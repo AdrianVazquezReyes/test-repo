@@ -5,3 +5,8 @@ if a == 'yes':
     print('eat something')
 else:
     print('do your homework')
+
+lista = [e for e in range(10)]
+dictionary = {e: e**2 for e in lista}
+print(lista)
+print(dictionary)
