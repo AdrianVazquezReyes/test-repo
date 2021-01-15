@@ -10,3 +10,6 @@ lista = [e for e in range(10)]
 dictionary = {e: e**2 for e in lista}
 print(lista)
 print(dictionary)
+
+for i in range(8):
+    print(i)
