@@ -25,3 +25,4 @@ if __name__ == "__main__":
     main()
 
 print('this is new')
+print('this is the second line')
